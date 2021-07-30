@@ -6,4 +6,5 @@ link: https://www.udemy.com/course/formacao-nodejs/learn/lecture/17794464#overvi
 Bibliotecas:
 
 npm install --save html-pdf
+npm install --save ejs
 
