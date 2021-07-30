@@ -1,0 +1,9 @@
+NODEJS - Gerar PDF
+
+Autor: Vitor Lima - Udemy
+link: https://www.udemy.com/course/formacao-nodejs/learn/lecture/17794464#overview
+
+Bibliotecas:
+
+npm install --save html-pdf
+

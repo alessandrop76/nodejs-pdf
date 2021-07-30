@@ -1,0 +1,30 @@
+{
+  "name": "12-pdf",
+  "version": "1.0.0",
+  "description": "Gerar PDF com a biblioteca 'html-pdf'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessandrop76/nodejs-pdf.git"
+  },
+  "keywords": [
+    "pdf",
+    "nodejs",
+    "javascript",
+    "aula",
+    "treinamento",
+    "tutorial"
+  ],
+  "author": "alessandrop76",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alessandrop76/nodejs-pdf/issues"
+  },
+  "homepage": "https://github.com/alessandrop76/nodejs-pdf#readme",
+  "dependencies": {
+    "html-pdf": "^3.0.1"
+  }
+}
